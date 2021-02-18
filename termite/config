@@ -1,0 +1,51 @@
+[options]
+
+allow_bold = true
+audible_bell = false
+bold_is_bright = false
+cell_height_scale = 1.0
+cell_width_scale = 1.0
+clickable_url = true
+dynamic_title = true
+font = Hack 12
+scroll_on_output = true
+#scroll_on_keystroke = true
+scrollback_lines = 10000
+hyperlinks = false
+browser = xdg-open
+cursor_blink = on
+cursor_shape = underline
+
+
+[colors]
+
+foreground      = #ffffff
+foreground_bold = #ffffff
+cursor          = #eaeaea
+background      = #111824
+highlight       = #585e74
+
+
+color0  = #000000
+color8  = #000000
+
+color1  = #ff5555
+color9  = #ff5555
+
+color2  = #85d3ff
+color10 = #85d3ff
+
+color3  = #ffb619
+color11 = #ffb619
+
+color4  = #b6e7fa
+color12 = #b6e7fa
+
+color5  = #ef75ff
+color13 = #ef75ff
+
+color6  = #9aedfe
+color14 = #9aedfe
+
+color7  = #e6e6e6
+color15 = #e6e6e6
