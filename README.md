@@ -9,7 +9,16 @@ Here are some details about my setup:
 - **Shell**: ZSH 5.8
 - **Program Launcher:** Rofi 
 
-uwu is a custom theme done by me, based on Cloud theme, using unicode characters & kaomuji for japanese emoticons. 
+uwu is a custom theme done by me, based on Cloud theme, using unicode characters & kaomuji for japanese emoticons and inspired by machaerus's theme (Thank you, it's really beautiful your theme). 
 
 # Screenshots
-Soon
+
+# Home 
+![Home](https://raw.githubusercontent.com/CGDEX/blue-bird/main/prints/4.png?raw=true)
+
+
+
+
+
+
+
