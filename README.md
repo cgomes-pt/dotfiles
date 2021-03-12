@@ -5,7 +5,7 @@ Here are some details about my setup:
 - **OS:** Manjaro
 - **WM:** i3-gaps
 - **Bar:** Polybar 
-- **Terminal:** Termite
+- **Terminal:** Kitty
 - **Shell**: ZSH 5.8
 - **Program Launcher:** Rofi 
 
