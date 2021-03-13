@@ -19,9 +19,14 @@ uwu is a custom theme done by me, based on Cloud theme, using unicode characters
 ![Home](https://raw.githubusercontent.com/CGDEX/blue-bird/main/prints/4.png?raw=true)
 
 
+
 # Others 
 ![Neofetch](https://raw.githubusercontent.com/CGDEX/blue-bird/main/prints/print1.png?raw=true)
 
+![Working](https://raw.githubusercontent.com/CGDEX/blue-bird/main/prints/working.png?raw=true)
 
 
+
+# uwu zsh theme
+![UwU](https://raw.githubusercontent.com/CGDEX/blue-bird/main/prints/zsh.png?raw=true)
 
